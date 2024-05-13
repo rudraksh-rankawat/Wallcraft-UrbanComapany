@@ -2,14 +2,9 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>UIApplicationSceneManifest</key>
-	<dict>
-		<key>UIApplicationPreferredDefaultSceneSessionRole</key>
-		<string>UIWindowSceneSessionRoleApplication</string>
-		<key>UIApplicationSupportsMultipleScenes</key>
-		<true/>
-		<key>UISceneConfigurations</key>
-		<dict/>
-	</dict>
+	<key>NSHandsTrackingUsageDescription</key>
+	<string>$(We need access to hand tracking features for ARKit functionality, such as detecting hand gestures.)</string>
+	<key>NSWorldSensingUsageDescription</key>
+	<string>$(We need access to world sensing features for ARKit functionality, such as plane detection.)</string>
 </dict>
 </plist>
