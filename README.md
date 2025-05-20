@@ -1,6 +1,6 @@
 # WallCraft by UrbanCompany
 
-## MVP: https://www.youtube.com/watch?v=d8Cr4xLuXMQ
+## MVP: https://youtu.be/HywXOYlQGvA
 ## Introduction
 This Technical Requirements Document (TRD) outlines the proposed technical approach for developing a wall panel visualiser application. The application enables UrbanCompany customers to visualize and select wall panel designs within their homes using augmented reality (AR) and mixed reality (MR). The solution will leverage the VisionOS SDK for core AR functionalities, including wall detection, panel placement, and real-world occlusion.
 
